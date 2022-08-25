@@ -13,7 +13,7 @@ java.runtime.version=11
 4. Desde Heroku, crear app y elegir método GitHub y buscar el repositorio subido
 5. Habilitar deploy automático y ejecutar el Deploy
 
-##Ejercicio 1
+## Ejercicio 1
 * Probar a empaquetar la aplicación con maven package desde Intellij IDEA
 * Desde terminal en Intellij IDEA verificar que se ejecta correctamente con el comando:
 ```
@@ -21,7 +21,7 @@ java -jar target/spring-deploy-1.0.jar
 ```
 * Crear un perfil para dev y otro para test
 
-##Ejercicio 2
+## Ejercicio 2
 
 * Despliegue el API REST de Laptops en Heroku y verificar funcionamiento desde POSTMAN.
 
