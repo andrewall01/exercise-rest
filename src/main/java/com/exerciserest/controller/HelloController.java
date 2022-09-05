@@ -13,7 +13,7 @@ public class HelloController {
     @GetMapping("/")
     public String saludar(){
         System.out.println(message);
-        return "Este es un saludo de prueba";
+        return "Esta es la página principal de Hello Controller desde el proyecto Laptop";
     }
 
 }

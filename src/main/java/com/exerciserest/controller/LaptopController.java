@@ -76,7 +76,4 @@ public class LaptopController {
         return ResponseEntity.noContent().build();
     }
 
-
-
-
 }
