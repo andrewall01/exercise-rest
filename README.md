@@ -29,3 +29,7 @@ java -jar target/exercise-rest-0.0.1-SNAPSHOT.jar
 * Heroku -- Java, Spring, PostgreSQL
 * Netlify -- FrontEnd(React, Angular, ...)
 * Vercel -- FrontEnd(React, Angular, ...)
+
+## Ejercicio 3
+
+* Añadir Spring Security sobre el proyecto API REST de Laptops y configurar 2 usuarios en memoria utilizando una clase WebSecurityConfig.
