@@ -17,7 +17,7 @@ java.runtime.version=11
 * Probar a empaquetar la aplicación con maven package desde Intellij IDEA
 * Desde terminal en Intellij IDEA verificar que se ejecta correctamente con el comando:
 ```
-java -jar target/spring-deploy-1.0.jar
+java -jar target/exercise-rest-0.0.1-SNAPSHOT.jar
 ```
 * Crear un perfil para dev y otro para test
 
